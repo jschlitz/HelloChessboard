@@ -1,0 +1,14 @@
+td {
+   font-family:serif;
+   font-size:40px;
+   height:50px;
+   width:50px;
+   text-align:center;
+}
+td.w {
+   background: #f0e0d0;
+}
+
+td.b {
+   background: #807060;
+}
